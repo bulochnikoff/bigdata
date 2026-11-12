@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+*.duckdb
+mlflow.db
+target/
+logs/
+.env
+.user.yml
