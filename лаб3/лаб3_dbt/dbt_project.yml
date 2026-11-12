@@ -1,0 +1,8 @@
+name: lab3_reviews
+version: 1.0.0
+config-version: 2
+profile: lab3_reviews
+model-paths: [models]
+models:
+  lab3_reviews:
+    +materialized: table

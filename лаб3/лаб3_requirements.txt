@@ -1,0 +1,8 @@
+pandas
+pyarrow
+duckdb
+matplotlib
+dbt-core
+dbt-duckdb
+great_expectations
+numpy>=2

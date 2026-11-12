@@ -1,0 +1,10 @@
+pandas
+pyarrow
+matplotlib
+psutil
+numpy
+dask[dataframe]
+polars
+duckdb
+pyspark
+great_expectations==0.18.19
